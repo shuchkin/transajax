@@ -1,9 +1,0 @@
-#summary Lighweight but very effective AJAX library.
-
-= Introduction =
-
-  * Namespace: TransAjax
-  * Main method: TransAjax.exec( objArgs ); // see comments in source
-  * 2 wrappers:
-    * ajax( url, dom_id_or_callback )
-    * ajax_submit( frm_id, dom_id_or_callback )

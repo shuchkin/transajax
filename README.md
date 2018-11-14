@@ -1,4 +1,6 @@
-# Introduction #
+# TransAjax
+No production! Just sources for the academic interest.
+## Introduction
 
   * Namespace: TransAjax
   * Main method: TransAjax.exec( objArgs ); // see comments in source
